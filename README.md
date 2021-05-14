@@ -1,4 +1,4 @@
-# Hyperspectral image classification
+# Hyperspectral image classification  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/hyperspectral-image-classification/blob/main/hsi_classification.ipynb)
 
 Identifying healthy crops, identifying quality and freshness of food, estimating crop yield, finding leak in oil pipeline, fire detection, land cover classification, estimating soil composition, estimating pollution levels, identifying fake medicine are just one of few things that can be done using hyperspectral image classification.
 
